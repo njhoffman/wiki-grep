@@ -9,8 +9,8 @@ diff: true
 exit: false # could be expressed as "no-exit: true"
 extension:
   - js
-file:
-  - ./test/integration.js
+# file:
+#   - ./test/integration.js
 forbid-only: false
 forbid-pending: false
 full-trace: false
